@@ -13,7 +13,7 @@
 *	Whether the parents are dependent or not
 *	Company tier
 
-* Element
+## Element
 - applicant :This class is used to store and process loan applicant’s details.
 - get_data():This applicant class function is used to receive and store loan applicant’s details.
 - calc_liability() :This applicant class function is used to access the loan applicant’s current liabilities and calculate a credit score.
